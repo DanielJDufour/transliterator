@@ -3,6 +3,7 @@ setup.cfg
 setup.py
 transliterator/__init__.py
 transliterator/mappings/__init__.py
+transliterator/mappings/arabic_to_english.py
 transliterator/mappings/english_to_arabic.py
 transliterator/tests/__init__.py
 transliterator/tests/test.py
